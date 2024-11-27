@@ -6,8 +6,8 @@
     <title>01 - Form</title>
     <link rel="stylesheet" href="../_styles/styles.css" />
   </head>
-  <main>
-    <body>
+  <body>
+    <main>
       <h1>01 - Form</h1>
       <form action="/submit">
         <label
@@ -20,13 +20,15 @@
           <input type="text" />
         </label>
         <br /><br />
-        <legend>Favorite Character</legend>
-        <label><input type="radio" id="spongebob" />Spongebob</label>
-        <label><input type="radio" id="patrick" />Patrick</label>
-        <label><input type="radio" id="sandy" />Sandy</label>
+        <fieldset>
+          <legend>Favorite Character</legend>
+          <label><input type="radio" id="spongebob" />Spongebob</label>
+          <label><input type="radio" id="patrick" />Patrick</label>
+          <label><input type="radio" id="sandy" />Sandy</label>
+        </fieldset>
         <br />
         <button>Submit</button>
       </form>
-    </body>
-  </main>
+    </main>
+  </body>
 </html>
