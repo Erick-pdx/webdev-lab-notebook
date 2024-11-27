@@ -84,3 +84,16 @@ I found this one intresting because it was similar to a js exercise that we did,
 I with this entire part was explained so rather than just saying do this say this is the topic and your learning this...
 
 More exercises in general would have been good, to practise nothing long just short functions where I can see the outcomes and such.
+
+### Update for Jquery
+
+I didnt read the instuctions and thought it was completed because it is the same as the js fetch, now that I know it I can aswer it.
+
+There wasn't any solutions so I used online resources to get the hang of it but I can see the patter from
+js to jquery as most lines translated the same way to jquery.
+
+I found this sections intresting and it wasn't hard, but it gave me better insight to jquery but my understanding is still low and for the most part I am thinking how this so similar to js so why not just keep using js.
+
+I think this part needs a solutions for it, but other than that its pretty self explanitory, overall not a bad practise especially as we head towards the final.
+
+I just doing a more simple js to jquery than heading to this one would have been better, but besides that the learning curve wasnt very hard.

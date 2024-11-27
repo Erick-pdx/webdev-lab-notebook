@@ -7,7 +7,8 @@ const loading = document.querySelector("#loading");
 const addBookToDOM = (item) => {
   console.log(item);
   let element = document.createElement("div");
-  let title = document.createElement("h4");
+  let title = document.createElement("p");
+  title.style.fontWeight = "bold"; // Set font weight to bold
   let author = document.createElement("p");
   let published = document.createElement("p");
   let pages = document.createElement("p");

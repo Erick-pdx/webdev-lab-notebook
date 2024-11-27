@@ -13,7 +13,7 @@ const addBookToDOM = (item) => {
     marginTop: "20px",
   });
 
-  let $title = $("<h4>").text(item.name);
+  let $title = $("<p>").text(item.name).css("font-weight", "bold");
   let $author = $("<p>").text(`by ${item.authors[0]}`);
   let $published = $("<p>").text(item.released.substr(0, 4));
   let $pages = $("<p>").text(`${item.numberOfPages} pages`);
